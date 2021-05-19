@@ -3,8 +3,6 @@
   "description": "My first package",
   "type": "project",
   "license": "MIT",
-  "minimum-stability": "stable",
-  "prefer-stable": true,
   "require": {
     "php": ">=7.4.0"
   },
