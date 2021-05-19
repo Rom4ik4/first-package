@@ -2,6 +2,9 @@
   "name": "rom4ik/first-package",
   "description": "My first package",
   "type": "project",
+  "require": {
+
+  },
   "license": "MIT",
   "authors": [
     {
