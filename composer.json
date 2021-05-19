@@ -9,11 +9,11 @@
       "email": "rom4ik.kov@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "require": {},
   "autoload": {
     "psr-4": {
-      "App\\": "./app/"
+      "App\\": "app/"
     }
   }
 }
