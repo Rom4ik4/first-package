@@ -1,6 +1,8 @@
 {
   "name": "rom4ik/otus",
   "description": "My first package",
+  "license": "MIT",
+  "type": "project",
   "authors": [
     {
       "name": "Roman",
@@ -8,10 +10,7 @@
     }
   ],
   "minimum-stability": "dev",
-  "require": {
-    "php": ">=7.4",
-    "rkovalenko/composer-test": "dev-main"
-  },
+  "require": {},
   "autoload": {
     "psr-4": {
       "App\\": "./app/"
