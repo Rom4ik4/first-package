@@ -2,10 +2,9 @@
   "name": "rom4ik/first-package",
   "description": "My first package",
   "type": "project",
-  "require": {
-    "php": ">=7.4"
-  },
   "license": "MIT",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
   "authors": [
     {
       "name": "Roman",
@@ -16,6 +15,5 @@
     "psr-4": {
       "App\\": "app/"
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
