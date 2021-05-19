@@ -3,7 +3,7 @@
   "description": "My first package",
   "type": "project",
   "require": {
-
+    "php": ">=7.4"
   },
   "license": "MIT",
   "authors": [
