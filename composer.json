@@ -7,8 +7,10 @@
       "email": "rom4ik.kov@gmail.com"
     }
   ],
+  "minimum-stability": "dev",
   "require": {
-    "php": ">=7.4"
+    "php": ">=7.4",
+    "rkovalenko/composer-test": "dev-main"
   },
   "autoload": {
     "psr-4": {
