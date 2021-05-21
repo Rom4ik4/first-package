@@ -14,5 +14,8 @@
       "App\\": "src/"
     }
   },
+  "require": {
+    "php": ">=7.1"
+  },
   "minimum-stability": "dev"
 }
